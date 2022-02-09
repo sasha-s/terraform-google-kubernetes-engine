@@ -6,6 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Extending the adopted spec, each change should have a link to its corresponding pull request appended.
 
+## [19.1.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/compare/v19.0.0...v19.1.0) (2022-02-09)
+
+
+### Features
+
+* Add Identity Service config to beta modules ([#1142](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/issues/1142)) ([6a99347](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/commit/6a993475c0925887a8b13007202408faeb346926))
+
+
+### Bug Fixes
+
+* Add missing type attributes to variables ([#1117](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/issues/1117)) ([6436339](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/commit/6436339a6342f927801d91bc3ba1818defbb000b))
+
 ## [19.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/compare/v18.0.0...v19.0.0) (2022-01-31)
 
 
